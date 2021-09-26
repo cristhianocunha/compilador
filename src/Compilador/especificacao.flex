@@ -10,3 +10,4 @@ import static Compilador.Token.*;
 %class Lexer
 %type Token
 nomeVariavel = [_a-zA-Z][_a-zA-z0-9]*
+inteiro
